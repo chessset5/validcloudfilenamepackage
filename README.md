@@ -5,3 +5,6 @@ Please note that this project is also for used for the creater to learn github a
 
 ## package version
 This is the package version of the app valide cloud rename. It has the intent to learn packaging in python.
+
+## This project is not complete
+This will be updated and cleaned up at a later date.
